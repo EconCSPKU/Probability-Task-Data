@@ -36,6 +36,7 @@ Subjects IDs have been anonymized.
 
 **Data Format**
 
+```txt
 taskID  subjectID  prediction   mu     numLeft    numRight  signal  reactionTime
 T683r        1        40        60        80        30        red        86
 T962r        1        20        90        60        20        red        65
@@ -43,4 +44,4 @@ T189b        1        40        10        80        90        blue        47
 T387b        1        50        30        80        70        blue        31
 T387r        1        70        30        80        70        red        18
 ...
-
+```
