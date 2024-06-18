@@ -24,7 +24,7 @@ This paper is available from the authors, upon request.
 
 **Dataset Information** 
 
-This dataset consists of human predictions of probability tasks. The data  was collected from subjects recruited from Prolif. The dataset includes parameters of tasks, predictions of subjects, and the reaction time.
+This dataset consists of human predictions of probability tasks. The data  was collected from subjects recruited from Prolific. The dataset includes parameters of tasks, predictions of subjects, and the reaction time.
 
 We use the standard belief-updating task to elicit the forecast of subjects. There are two boxes, each containing a mix of red and blue balls with a total of 100. The number of red balls in the left box and the right box are *numLeft* and *numRight* respectively. One box is selected randomly according to *mu*(%), the probability of selecting the left box. Then one ball is randomly drawn from the selected box, the color of which is informed to the subjects as a *signal*. After knowing the signal, subjects are required to estimate the probability that the drawn ball comes from the left box.
 
