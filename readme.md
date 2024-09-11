@@ -10,12 +10,14 @@ Contact: Ying Wang, wying2000@pku.edu.cn
 
 Citation: the official paper to cite when using this dataset is 
 
+```
 @article{kong2024surprising,
   title={The Surprising Benefits of Base Rate Neglect in Robust Aggregation},
   author={Kong, Yuqing and Wang, Shu and Wang, Ying},
   journal={arXiv preprint arXiv:2406.13490},
   year={2024}
 }
+```
 
 This paper is available from the authors, upon request.
 
